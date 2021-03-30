@@ -1,0 +1,33 @@
+{
+  "page-title": "林育任",
+  "intro": {
+    "hello": "こんにちは、",
+    "name": "George Lin ",
+    "afterName": "と申します",
+    "IamWhat": "プログラミングの勉強を努力している初心者です"
+  },
+  "about": {
+    "title": "About",
+    "picture": "S__8126799.jpg",
+    "about": "大学の時 AI に興味があったので、データサイエンスの勉強とプログラミングを始めました。　そして、プログラミングしている間、また Web に興味が湧いたので、フロントエンドとバックエンドの勉強を始めました。　今は React、Vue、CSS、html などのフロントエンド技術の勉強を専念しています。",
+    "resume": "履歴",
+    "resume_link": "/履歴書_【林育任】.pdf",
+    "workHistory": "職務経歴書",
+    "workHistory_link": "/職務経歴書_【林育任】.pdf"
+  },
+  "projects": {
+    "title": "My Works",
+    "projects" : [
+      {
+        "title": "search-movie",
+        "about": "OMDb API で映画のデータを捜査します。登録したら、自分の観たと観たいリストを作ることができます",
+        "thumbnail": "スクリーンショット (145).png",
+        "demo": "https://search-movie-16216.web.app/",
+        "source_code": "https://github.com/elegant-george/react-movie-search"
+      }
+    ]
+  },
+  "contact": {
+    "interested": "私のことに興味がありますか？　もっと知りたいですか？"
+  }
+}

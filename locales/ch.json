@@ -1,0 +1,33 @@
+{
+  "page-title": "林育任",
+  "intro": {
+    "hello": "Hi, 我是",
+    "name": "George Lin",
+    "afterName": "",
+    "IamWhat": "努力學習中的菜鳥碼農"
+  },
+  "about": {
+    "title": "About",
+    "picture": "S__8126799.jpg",
+    "about": "大學時因為覺得 AI 很酷而開始學習資料學並開始寫程式，在寫程式的過程中又對 Web 產生了興趣， 而開始學習前後端， 目前主要在學習 React、Vue、CSS、html 等前端技術",
+    "resume": "resume",
+    "resume_link": "/履歴書_【林育任】.pdf",
+    "workHistory": "",
+    "workHistory_link": ""
+  },
+  "projects": {
+    "title": "My Works",
+    "projects" : [
+      {
+        "title": "search-movie",
+        "about": "透過 OMDb API 來搜尋電影資料，註冊後可以創建自己的待看及已看清單",
+        "thumbnail": "スクリーンショット (145).png",
+        "demo": "https://search-movie-16216.web.app/",
+        "source_code": "https://github.com/elegant-george/react-movie-search"
+      }
+    ]
+  },
+  "contact": {
+    "interested": "有興趣多了解我一些嗎?"
+  }
+}

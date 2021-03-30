@@ -1,0 +1,34 @@
+{
+  "page-title": "George Lin",
+  "intro": {
+    "hello": "Hi, my name is",
+    "name": "George Lin",
+    "afterName": "",
+    "IamWhat": "A rookie developer in learning"
+  },
+  "about": {
+    "title": "About",
+    "picture": "S__8126799.jpg",
+    "about": "In my college, I thinked AI is cool, so I started learning data science writing code. In my writing code time, I found my intertest in Web technology, then I started learning backend and frontend. Now, I am focus on frontend such as React, Vue, CSS and html.",
+    "resume": "resume",
+    "resume_link": "/履歴書_【林育任】.pdf",
+    "workHistory": "",
+    "workHistory_link": ""
+  },
+  "projects": {
+    "title": "My Works",
+    "projects" : [
+      {
+        "title": "search-movie",
+        "about": "Search movie data by OMDb API. After registering, you can create your own queue or watched list.",
+        "thumbnail": "スクリーンショット (145).png",
+        "demo": "https://search-movie-16216.web.app/",
+        "source_code": "https://github.com/elegant-george/react-movie-search"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "interested": "Want to know more about me?"
+  }
+}
