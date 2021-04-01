@@ -20,7 +20,7 @@
     "projects" : [
       {
         "title": "search-movie",
-        "about": "OMDb API で映画のデータを捜査します。登録したら、自分の観たと観たいリストを作ることができます",
+        "about": "OMDb API で映画のデータを検索します。登録したら、自分の観たと観たいリストを作ることができます",
         "thumbnail": "スクリーンショット (145).png",
         "demo": "https://search-movie-16216.web.app/",
         "source_code": "https://github.com/elegant-george/react-movie-search"
