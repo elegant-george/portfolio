@@ -24,6 +24,13 @@
         "thumbnail": "スクリーンショット (145).png",
         "demo": "https://search-movie-16216.web.app/",
         "source_code": "https://github.com/elegant-george/react-movie-search"
+      },
+      {
+        "title": "GuruOne",
+        "about": "MERN スタックの練習のために作ったシンプルなレストランを評価するサイト",
+        "thumbnail": "スクリーンショット (148).png",
+        "demo": "https://deploy-to-aws.dllu2fe1dqw4a.amplifyapp.com/",
+        "source_code": "https://github.com/elegant-george/Guruone-frontend"
       }
     ]
   },

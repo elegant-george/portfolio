@@ -24,6 +24,13 @@
         "thumbnail": "スクリーンショット (145).png",
         "demo": "https://search-movie-16216.web.app/",
         "source_code": "https://github.com/elegant-george/react-movie-search"
+      },
+      {
+        "title": "GuruOne",
+        "about": "A simple restaurant review site that I coded for practicing MERN stack.",
+        "thumbnail": "スクリーンショット (148).png",
+        "demo": "https://deploy-to-aws.dllu2fe1dqw4a.amplifyapp.com/",
+        "source_code": "https://github.com/elegant-george/Guruone-frontend"
       }
     ]
   },

@@ -24,6 +24,13 @@
         "thumbnail": "スクリーンショット (145).png",
         "demo": "https://search-movie-16216.web.app/",
         "source_code": "https://github.com/elegant-george/react-movie-search"
+      },
+      {
+        "title": "GuruOne",
+        "about": "個人為了練習 MERN 架構所寫出的簡單餐廳評價網站",
+        "thumbnail": "スクリーンショット (148).png",
+        "demo": "https://deploy-to-aws.dllu2fe1dqw4a.amplifyapp.com/",
+        "source_code": "https://github.com/elegant-george/Guruone-frontend"
       }
     ]
   },
