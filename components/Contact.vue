@@ -4,7 +4,7 @@
     <article>
       <h3>{{ $t('contact.interested') }}</h3>
       <br>
-      <p>email: cgsh10030247@gmail.com</p>
+      <p>email: linnegit@gmail.com</p>
     </article>
   </section>
 </template>
